@@ -62,6 +62,12 @@ sex chromosome regions are not present in *L. saxatilis*, consistent with its ka
 - `coverage/` *(scripts to be added)*
 
 
+### 5. Heterozygosity
+The SNP genotypes were extracted form the filtered VCF file and proportion of heterozygous SNPs was
+calculated for each sample at each locus. There is a region on SUPER3 where most female crab are heterozygote
+and most male crab are homozygote.
+
+- `heterozygosity/` *(scripts to be added)*
 ---
 
 ## Related publications
