@@ -1,0 +1,17 @@
+# Large data files — share via Zenodo/Dryad instead
+*.vcf
+*.vcf.gz
+*.bam
+*.bam.bai
+*.fasta
+*.fastq
+*.fastq.gz
+
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# macOS
+.DS_Store
