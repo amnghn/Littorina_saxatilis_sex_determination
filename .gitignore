@@ -15,3 +15,7 @@
 
 # macOS
 .DS_Store
+
+# tests and scratch files
+scratch.sh
+
