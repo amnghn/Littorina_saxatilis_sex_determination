@@ -1,4 +1,4 @@
-# Sex-associated genomic variation in *Littorina saxatilis* — Koster analyses
+# Sex-associated genomic variation in *Littorina saxatilis*
 
 Bioinformatics code accompanying the manuscript on sex determination in *Littorina saxatilis* (in prep). 
 Analyses were performed on whole-genome sequencing data from Crab and Wave ecotype individuals collected from the Koster archipelago, southwest Sweden.
