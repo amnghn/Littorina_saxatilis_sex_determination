@@ -73,6 +73,9 @@ https://doi.org/10.1111/mec.17160
 
 De Jode, A., Faria, R., Formenti, G., Sims, Y., Smith, T. P., Tracey, A., Wood, J. M. D., Zagrodzka, Z. B., Johannesson, K., Butlin, R. K., & Leder, E. H. (2024). Chromosome-scale Genome Assembly of the Rough Periwinkle *Littorina saxatilis*. *Genome Biology and Evolution*, 16(4). https://doi.org/10.1093/gbe/evae076
 
+## Citation
+### SexFindR workflow:
+Doc: https://sexfindr.readthedocs.io/en/latest/
 Grayson, P., Wright, A., Garroway, C. J., & Docker, M. F. (2022). SexFindR: A computational workflow to identify young and old sex chromosomes. bioRxiv (Cold Spring Harbor Laboratory). https://doi.org/10.1101/2022.02.21.481346
 
 ---
