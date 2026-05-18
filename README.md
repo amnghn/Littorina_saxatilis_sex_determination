@@ -33,12 +33,17 @@ across the 17 linkage groups.
 
 ### 2. SNP density
 
-Per-sample SNP density was calculated in non-overlapping 10 kb windows. Mean densities
-for males and females were compared, and a 1,000-permutation test (sex labels shuffled)
-was used to assign window-level p-values. Windows with p ≤ 0.01 were retained as
-candidates.
+Per-sample SNP density was calculated in non-overlapping 10 kb windows using VCFtools.
+Mean densities for males and females were compared per window, and a 1,000-permutation
+test (sex labels shuffled across individuals) was used to assign empirical p-values.
+The test is one-sided, conditioned on the direction of the observed male–female difference.
+Windows with p ≤ 0.01 were retained as candidates and visualised as Manhattan plots
+across the 17 linkage groups for each ecotype.
 
-- `SNP_density/` *(scripts to be added)*
+- `SNPDensity/SNPDensity_R_scripts/SNP_density_permutation.R` — reads per-individual
+  `.snpden` files, calculates mean male/female SNP density per window, runs the
+  permutation test (or loads pre-computed results), and produces Manhattan plots of
+  the male–female difference and permutation p-values for Crab and Wave ecotypes
 
 ### 3. GWAS
 
