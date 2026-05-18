@@ -6,6 +6,7 @@
 *.fasta
 *.fastq
 *.fastq.gz
+*_perm_with_true_p_*.txt
 
 # R artifacts
 .Rhistory
